@@ -19,6 +19,11 @@ mvn clean install
 
 on the first run 1 sample DB record is created (User)
 
+## user details
+```bash
+username: john
+password: password
+```
 
 ## swagger url
 http://localhost:8080/swagger-ui/#/
